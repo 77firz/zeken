@@ -1,0 +1,332 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "userId": "farizzx77",
+            "brand": "Google Pixel 2 XL",
+            "link": "XXXXXX1",
+            "image_url": "https://static.swappa.com/images/dynamic/google-pixel-2-xl_122x250.png",
+            "color": "black",
+            "memory": "128 GB",
+            "condition": "baru (resale)",
+            "price": "Rp 6.500.000",
+            "description": "Ini deskripsi",
+            "damage_description": "Belum pernah ada kerusakan",
+            "modification_description": "Tidak pernah dimodifikasi",
+            "photos": [
+                "https://static.swappa.com/listings/LSX074/images/aoHOgIoi_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cdJipnLV_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/YttNCmwB_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/VWQXjUYa_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cRiVOGCm_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/kCaeAIsU_big.jpg"
+            ],
+            "accessories":  [0, 1, 2, 3, 4, 5],
+            "comments" : [
+                {
+                    "id" : 1,
+                    "comment" : "Gan, boleh liat foto bagian belakangnya yang lebih jelas?" ,
+                    "comment_reply" : [
+                        {
+                            "id" : 1,
+                            "userId" : "farizzx77", 
+                            "comment" : "udah diupload ya gan. Monggo dicek."
+                        },
+                        {
+                            "id" : 2,
+                            "userId" : "miuzasama", 
+                            "comment" : "mantap gan!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "userId": "farizzx77",
+            "brand": "Apple Iphone X",
+            "link": "XXXXXX2",
+            "image_url": "https://static.swappa.com/images/dynamic/apple-iphone-x-silver_124x250.png",
+            "color": "black",
+            "memory": "128 GB",
+            "condition": "baru (resale)",
+            "price": "Rp 6.500.000",
+            "description": "Ini deskripsi",
+            "damage_description": "Belum pernah ada kerusakan",
+            "modification_description": "Tidak pernah dimodifikasi",
+            "photos": [
+                "https://static.swappa.com/listings/LSX074/images/aoHOgIoi_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cdJipnLV_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/YttNCmwB_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/VWQXjUYa_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cRiVOGCm_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/kCaeAIsU_big.jpg"
+            ],
+            "accessories":  [0, 1, 2, 3, 4, 5],
+            "comments" : [
+                {
+                    "id" : 1,
+                    "comment" : "Gan, boleh liat foto bagian belakangnya yang lebih jelas?" ,
+                    "comment_reply" : [
+                        {
+                            "id" : 1,
+                            "userId" : "farizzx77", 
+                            "comment" : "udah diupload ya gan. Monggo dicek."
+                        },
+                        {
+                            "id" : 2,
+                            "userId" : "miuzasama", 
+                            "comment" : "mantap gan!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "userId": "farizzx77",
+            "brand": "Samsung Galaxy S8",
+            "link": "XXXXXX3",
+            "image_url": "https://static.swappa.com/images/dynamic/samsung-galaxy-s8_115x250.png",
+            "color": "black",
+            "memory": "128 GB",
+            "condition": "baru (resale)",
+            "price": "Rp 6.500.000",
+            "description": "Ini deskripsi",
+            "damage_description": "Belum pernah ada kerusakan",
+            "modification_description": "Tidak pernah dimodifikasi",
+            "photos": [
+                "https://static.swappa.com/listings/LSX074/images/aoHOgIoi_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cdJipnLV_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/YttNCmwB_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/VWQXjUYa_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cRiVOGCm_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/kCaeAIsU_big.jpg"
+            ],
+            "accessories":  [0, 1, 2, 3, 4, 5],
+            "comments" : [
+                {
+                    "id" : 1,
+                    "comment" : "Gan, boleh liat foto bagian belakangnya yang lebih jelas?" ,
+                    "comment_reply" : [
+                        {
+                            "id" : 1,
+                            "userId" : "farizzx77", 
+                            "comment" : "udah diupload ya gan. Monggo dicek."
+                        },
+                        {
+                            "id" : 2,
+                            "userId" : "miuzasama", 
+                            "comment" : "mantap gan!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "userId": "farizzx77",
+            "brand": "Apple Iphone 7 Plus",
+            "link": "XXXXXX4",
+            "image_url": "https://static.swappa.com/images/dynamic/apple-iphone-7-plus-silver_124x250.png",
+            "color": "black",
+            "memory": "128 GB",
+            "condition": "baru (resale)",
+            "price": "Rp 6.500.000",
+            "description": "Ini deskripsi",
+            "damage_description": "Belum pernah ada kerusakan",
+            "modification_description": "Tidak pernah dimodifikasi",
+            "photos": [
+                "https://static.swappa.com/listings/LSX074/images/aoHOgIoi_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cdJipnLV_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/YttNCmwB_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/VWQXjUYa_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cRiVOGCm_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/kCaeAIsU_big.jpg"
+            ],
+            "accessories":  [0, 1, 2, 3, 4, 5],
+            "comments" : [
+                {
+                    "id" : 1,
+                    "comment" : "Gan, boleh liat foto bagian belakangnya yang lebih jelas?" ,
+                    "comment_reply" : [
+                        {
+                            "id" : 1,
+                            "userId" : "farizzx77", 
+                            "comment" : "udah diupload ya gan. Monggo dicek."
+                        },
+                        {
+                            "id" : 2,
+                            "userId" : "miuzasama", 
+                            "comment" : "mantap gan!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "userId": "farizzx77",
+            "brand": "Sony Xperia XZs",
+            "link": "XXXXXX5",
+            "image_url": "https://static.swappa.com/images/dynamic/sony-xperia-xzs_128x250.png",
+            "color": "black",
+            "memory": "128 GB",
+            "condition": "baru (resale)",
+            "price": "Rp 6.500.000",
+            "description": "Ini deskripsi",
+            "damage_description": "Belum pernah ada kerusakan",
+            "modification_description": "Tidak pernah dimodifikasi",
+            "photos": [
+                "https://static.swappa.com/listings/LSX074/images/aoHOgIoi_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cdJipnLV_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/YttNCmwB_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/VWQXjUYa_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cRiVOGCm_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/kCaeAIsU_big.jpg"
+            ],
+            "accessories":  [0, 1, 2, 3, 4, 5],
+            "comments" : [
+                {
+                    "id" : 1,
+                    "comment" : "Gan, boleh liat foto bagian belakangnya yang lebih jelas?" ,
+                    "comment_reply" : [
+                        {
+                            "id" : 1,
+                            "userId" : "farizzx77", 
+                            "comment" : "udah diupload ya gan. Monggo dicek."
+                        },
+                        {
+                            "id" : 2,
+                            "userId" : "miuzasama", 
+                            "comment" : "mantap gan!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "userId": "farizzx77",
+            "brand": "Apple Iphone 7",
+            "link": "XXXXXX6",
+            "image_url": "https://static.swappa.com/images/dynamic/apple-iphone-7-silver_123x250.png",
+            "color": "black",
+            "memory": "128 GB",
+            "condition": "baru (resale)",
+            "price": "Rp 6.500.000",
+            "description": "Ini deskripsi",
+            "damage_description": "Belum pernah ada kerusakan",
+            "modification_description": "Tidak pernah dimodifikasi",
+            "photos": [
+                "https://static.swappa.com/listings/LSX074/images/aoHOgIoi_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cdJipnLV_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/YttNCmwB_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/VWQXjUYa_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cRiVOGCm_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/kCaeAIsU_big.jpg"
+            ],
+            "accessories":  [0, 1, 2, 3, 4, 5],
+            "comments" : [
+                {
+                    "id" : 1,
+                    "comment" : "Gan, boleh liat foto bagian belakangnya yang lebih jelas?" ,
+                    "comment_reply" : [
+                        {
+                            "id" : 1,
+                            "userId" : "farizzx77", 
+                            "comment" : "udah diupload ya gan. Monggo dicek."
+                        },
+                        {
+                            "id" : 2,
+                            "userId" : "miuzasama", 
+                            "comment" : "mantap gan!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "userId": "farizzx77",
+            "brand": "Oneplus 5",
+            "link": "XXXXXX7",
+            "image_url": "https://static.swappa.com/images/dynamic/oneplus-5_123x250.png",
+            "color": "black",
+            "memory": "128 GB",
+            "condition": "baru (resale)",
+            "price": "Rp 6.500.000",
+            "description": "Ini deskripsi",
+            "damage_description": "Belum pernah ada kerusakan",
+            "modification_description": "Tidak pernah dimodifikasi",
+            "photos": [
+                "https://static.swappa.com/listings/LSX074/images/aoHOgIoi_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cdJipnLV_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/YttNCmwB_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/VWQXjUYa_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cRiVOGCm_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/kCaeAIsU_big.jpg"
+            ],
+            "accessories":  [0, 1, 2, 3, 4, 5],
+            "comments" : [
+                {
+                    "id" : 1,
+                    "comment" : "Gan, boleh liat foto bagian belakangnya yang lebih jelas?" ,
+                    "comment_reply" : [
+                        {
+                            "id" : 1,
+                            "userId" : "farizzx77", 
+                            "comment" : "udah diupload ya gan. Monggo dicek."
+                        },
+                        {
+                            "id" : 2,
+                            "userId" : "miuzasama", 
+                            "comment" : "mantap gan!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "userId": "farizzx77",
+            "brand": "Essential PH-1",
+            "link": "XXXXXX8",
+            "image_url": "https://static.swappa.com/images/dynamic/essential-ph-1_126x250.png",
+            "color": "black",
+            "memory": "128 GB",
+            "condition": "baru (resale)",
+            "price": "Rp 6.500.000",
+            "description": "Ini deskripsi",
+            "damage_description": "Belum pernah ada kerusakan",
+            "modification_description": "Tidak pernah dimodifikasi",
+            "photos": [
+                "https://static.swappa.com/listings/LSX074/images/aoHOgIoi_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cdJipnLV_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/YttNCmwB_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/VWQXjUYa_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/cRiVOGCm_big.jpg",
+                "https://static.swappa.com/listings/LSX074/images/kCaeAIsU_big.jpg"
+            ],
+            "accessories":  [0, 1, 2, 3, 4, 5],
+            "comments" : [
+                {
+                    "id" : 1,
+                    "comment" : "Gan, boleh liat foto bagian belakangnya yang lebih jelas?" ,
+                    "comment_reply" : [
+                        {
+                            "id" : 1,
+                            "userId" : "farizzx77", 
+                            "comment" : "udah diupload ya gan. Monggo dicek."
+                        },
+                        {
+                            "id" : 2,
+                            "userId" : "miuzasama", 
+                            "comment" : "mantap gan!"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
